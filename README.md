@@ -8,6 +8,8 @@ un blog increible para el curso de git y git hub de platzi
 - Flujos de trabajo en Github.
 - Trabajo colaborativo.
 - Pasión por las buenas prácticas.
+- Creado por el super genio djoss.
+
 
 Si quieres aprender mas no dudes en realizar los cursos que te ofrece la plataforma [Platzi](http://platzi.com "Platzi").
 
