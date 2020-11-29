@@ -6,10 +6,6 @@ Eduard y Avril
 
 vivo en uruguay
 
-<<<<<<< HEAD
-=======
-Experimento 1
->>>>>>> d40d0a7 (Exp 1)
 
 Experimento 2
 
