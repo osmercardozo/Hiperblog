@@ -9,7 +9,12 @@ un blog increible para el curso de git y git hub de platzi
 - Trabajo colaborativo.
 - Pasión por las buenas prácticas.
 - Creado por el super genio djoss.
+<<<<<<< HEAD
 
+=======
+- Incluye algunos arreglos que le hice al codigo.
+- Disponibles para todos los curiosos.
+>>>>>>> readme-mejorado
 
 Si quieres aprender mas no dudes en realizar los cursos que te ofrece la plataforma [Platzi](http://platzi.com "Platzi").
 
